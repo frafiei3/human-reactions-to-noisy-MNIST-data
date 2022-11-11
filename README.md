@@ -14,3 +14,6 @@ Here we provide our behavioral data from 64 human subjects who performed a digit
 - **repeat**: Whether the stimulus appears for the first time or second time (binary; 0: first appearance, 1: second appearance)
 - **mnist_index**: index of the image in the mnist dataset (integer)
 
+### Additional notes:
+To access the noisy images we used in the experiment, please refer to our [osf](https://osf.io/akwty/) page. 
+
