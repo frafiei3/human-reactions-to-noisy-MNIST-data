@@ -1,4 +1,4 @@
-# Human Reactions to Noisy MNNIST Data
+# Human Reactions to Noisy MNIST Data
 Here we provide our behavioral data from 64 human subjects who performed a digit discrimination task using noisy MNIST dataset. For more details, pleases refer to our paper [here](https://www.biorxiv.org/content/10.1101/2022.08.23.505015v1.abstract).
 
 ### Data description
